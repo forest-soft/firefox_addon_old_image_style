@@ -1,0 +1,6 @@
+{
+  "extensionDescription": {
+    "message": "Returns the image display to the old display. (Black background, center display → white background, upper left display)",
+    "description": "Description of the extension."
+  }
+}
